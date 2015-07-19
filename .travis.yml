@@ -1,4 +1,7 @@
 language: scala
+
+
+
 jdk:
   - openjdk6
 scala:
